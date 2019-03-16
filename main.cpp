@@ -28,6 +28,7 @@ int main(int argc, char** argv) {
 		printf("\nMerge");
 		mergeSort();
 		resetVetor();
+		resetVetor();
 		
 		
 		printf("\n\n-------------------Prova Real--------------------\n\n");
