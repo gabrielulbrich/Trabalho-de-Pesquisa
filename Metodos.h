@@ -1,9 +1,11 @@
 //Métodos para a implementação das Ordenações
 
-typedef struct Registro{
-	int matricula[8];
+#define TAM 5
+
+typedef struct{
+	int matricula;
 	char nome[20];	
-}Registro;
+}REGISTROS;
 
 void inserirNumeros();
 void bubbleSort();

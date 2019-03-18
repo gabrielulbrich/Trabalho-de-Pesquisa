@@ -1,11 +1,11 @@
 //implementação dos métodos
-#include <stdio.h>
+/*#include <stdio.h>
 #include <stdlib.h>
 #include "Metodos.h"
 #include <locale.h>
 
 //Declaração de variáveis
-Registro aluno[4];
+REGISTROS aluno[4];
 int M[4][8];
 int n;	
 int comp=0;
@@ -224,4 +224,4 @@ void resetVetor(){
 		comp=0;
 		mov=0;
 	}
-}
+}*/
